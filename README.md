@@ -1,0 +1,1 @@
+# wspoczynniki_wielomianu_aproksymujacego
